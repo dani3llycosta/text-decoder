@@ -19,7 +19,9 @@ Minha versão do primeiro desafio do programa ONE, parceria da Alura + Oracle. U
 ## Créditos
 
 Projeto criado como parte de um desafio proposto no programa ONE da Alura + Oracle. 
-<br><br><br><br><br><br><br><br>
+
+<br><br><br>
+<br><br><br>
 -----------
 <b>English version</b>
 
